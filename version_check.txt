@@ -1,0 +1,2 @@
+tensorflow==2.x.x
+keras==2.x.x
